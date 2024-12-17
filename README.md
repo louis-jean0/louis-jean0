@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Louis !
 
-🎓 **Master's student in Computer Graphics** (IMAGINE) at the University of Montpellier
+🎓 **Master's student in Computer Graphics** (IMAGINE) at the University of Montpellier  
 🎮 Passionate about **video games**, **3D rendering**, and interactive technologies
 
 ---
