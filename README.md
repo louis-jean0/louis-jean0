@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Louis !
 
-🎓 **Master's student in Computer Graphics** (IMAGINE) at the University of Montpellier.  
-🎮 Passionate about **video games**, **3D rendering**, and interactive technologies.  
+🎓 **Master's student in Computer Graphics** (IMAGINE) at the University of Montpellier
+🎮 Passionate about **video games**, **3D rendering**, and interactive technologies
 
 ---
 
 ## 🚀 About me
-- 💻 Skilled in **C++**, **OpenGL**, and real-time graphics development.  
-- 🛠️ Exploring cutting-edge techniques for **3D rendering** and **game engines**.  
-- 🎮 Gaming enthusiast always curious about what happens "behind the scenes" of a game.  
+- 💻 Skilled in **C++**, **OpenGL**, and real-time graphics development
+- 🛠️ Exploring cutting-edge techniques for **3D rendering** and **game engines**
+- 🎮 Gaming enthusiast always curious about what happens "behind the scenes" of a game
 
 ---
 
@@ -23,19 +23,19 @@
 Here are some cool projects I've worked on (check them out in my pinned repos 👇):
 
 ### 🌊 **OceanGL**  
-A real-time ocean simulation using **C++** and **OpenGL**, featuring realistic wave motion and reflections.
+A real-time ocean simulation using **C++** and **OpenGL**, featuring realistic wave motion and reflections
 
 ### 🎮 **Ciment Doux**  
-A fully functional 3D FPS platformer game developed **from scratch**, combining platforming mechanics with a first-person shooter perspective.
+A fully functional 3D FPS platformer game developed **from scratch**, combining platforming mechanics with a first-person shooter perspective
 
 ### 🔍 **Ray-traced rendering engine**  
-A custom-built rendering engine implementing ray tracing techniques.
+A custom-built rendering engine implementing ray tracing techniques
 
 ### 🖼️ **Pixel Patrol**  
-An application that detects manipulated or falsified images.
+An application that detects manipulated or falsified images
 
 ### 🐝 **Bee Careful**  
-A simulation showcasing multi-agent systems where bees compete to gather pollen while avoiding carnivorous plants.
+A simulation showcasing multi-agent systems where bees compete to gather pollen while avoiding carnivorous plants
 
 ---
 
