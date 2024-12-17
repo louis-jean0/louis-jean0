@@ -26,8 +26,7 @@ Here are some cool projects I've worked on (check them out in my pinned repos �
 A real-time ocean simulation using **C++** and **OpenGL**, featuring realistic wave motion and reflections
 
 ### 🎮 **Ciment Doux**  
-A fully functional 3D FPS platformer game developed **from scratch**, combining platforming mechanics with a first-person shooter perspective
-
+A fully functional 3D FPS platformer game developed **from scratch**
 ### 🔍 **Ray-traced rendering engine**  
 A custom-built rendering engine implementing ray tracing techniques
 
