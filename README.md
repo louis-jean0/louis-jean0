@@ -22,11 +22,15 @@
 ## 📌 My projects
 Here are some cool projects I've worked on (check them out in my pinned repos 👇):
 
+### 🐦🐟 **Boidsy**
+An interactive boids simulation in 2D and 3D using **Bevy** and **Rust**
+
 ### 🌊 **OceanGL**  
 A real-time ocean simulation using **C++** and **OpenGL**, featuring realistic wave motion and reflections
 
 ### 🎮 **Ciment Doux**  
 A fully functional 3D FPS platformer game developed **from scratch**
+
 ### 🔍 **Ray-traced rendering engine**  
 A custom-built rendering engine implementing ray tracing techniques
 
@@ -40,4 +44,4 @@ A simulation showcasing multi-agent systems where bees compete to gather pollen 
 
 ## 📫 Get in touch
 - **LinkedIn**: [Louis Jean](https://www.linkedin.com/in/louis-jean-301826300)  
-- **Email**: louis.jean34@hotmail.fr || louis.jean@etu.umontpellier.fr  
+- **Email**: louis.jean34@hotmail.fr  
