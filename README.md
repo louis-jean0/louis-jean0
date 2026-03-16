@@ -1,21 +1,25 @@
-# 👋 Hi there, I'm Louis !
+# 👋 Hi there, I'm Louis!
 
-🎓 **Master's student in Computer Graphics** (IMAGINE) at the University of Montpellier  
-🎮 Passionate about **video games**, **3D rendering**, and interactive technologies
+🎓 **Master's graduate in Computer Graphics** (IMAGINE) — University of Montpellier  
+🔬 Former **R&D Intern** at LIRMM — procedural generation for underwater robotics simulation  
+🎮 Passionate about **real-time rendering**, **game engines**, and the tech behind video games
 
 ---
 
 ## 🚀 About me
-- 💻 Skilled in **C++**, **OpenGL**, and real-time graphics development
-- 🛠️ Exploring cutting-edge techniques for **3D rendering** and **game engines**
-- 🎮 Gaming enthusiast always curious about what happens "behind the scenes" of a game
+- 💻 Proficient in **C++**, **OpenGL**, and **GLSL** for real-time graphics
+- 🛠️ Experienced in building things from scratch: rendering engines, 
+  game engines, simulations
+- 🌊 Interested in procedural generation, physics simulation, and 
+  engine architecture
+- 🎮 Always curious about what happens "behind the scenes" of a game
 
 ---
 
 ## 🔨 Technologies I use
-- **Programming**: C++, GLSL, Rust, Python
-- **Graphics**: OpenGL 
-- **Tools**: Git, Visual Studio Code, CMake
+- **Languages**: C++, GLSL, C, Rust, C#, Python
+- **Graphics**: OpenGL, Unity, Bevy
+- **Tools**: Git, CMake, ImGui, Linux
 
 ---
 
@@ -32,7 +36,7 @@ A real-time ocean simulation using **C++** and **OpenGL**, featuring realistic w
 A fully functional 3D FPS platformer game developed **from scratch**
 
 ### 🔍 **Ray-traced rendering engine**  
-A custom-built rendering engine implementing ray tracing techniques
+A custom-built CPU rendering engine implementing ray tracing techniques
 
 ### 🖼️ **Pixel Patrol**  
 An application that detects manipulated or falsified images
@@ -43,5 +47,5 @@ A simulation showcasing multi-agent systems where bees compete to gather pollen 
 ---
 
 ## 📫 Get in touch
-- **LinkedIn**: [Louis Jean](https://www.linkedin.com/in/louis-jean-301826300)  
-- **Email**: louis.jean34@hotmail.fr  
+- **LinkedIn**: [Louis Jean](https://www.linkedin.com/in/louis-jean-301826300)
+- **Email**: louis.jean34@hotmail.fr
