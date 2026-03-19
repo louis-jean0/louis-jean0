@@ -38,11 +38,11 @@ A fully functional 3D FPS platformer game developed **from scratch**
 ### 🔍 **Ray-traced rendering engine**  
 A custom-built CPU rendering engine implementing ray tracing techniques
 
+### ♻️ **Defenseas**
+A serious game made in Godot, about defending the oceans from pollution
+
 ### 🖼️ **Pixel Patrol**  
 An application that detects manipulated or falsified images
-
-### 🐝 **Bee Careful**  
-A simulation showcasing multi-agent systems where bees compete to gather pollen while avoiding carnivorous plants
 
 ---
 
